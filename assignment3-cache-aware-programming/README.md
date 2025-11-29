@@ -13,7 +13,7 @@ The goal is to compare:
 
 ## 📂 Implemented Methods
 
-### ### 1️⃣ Naive Matrix Multiplication
+### 1️⃣ Naive Matrix Multiplication
 
 **Order:** `i → j → k`
 **Characteristics:**
